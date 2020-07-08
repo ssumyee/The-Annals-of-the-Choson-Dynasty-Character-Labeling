@@ -27,7 +27,7 @@ http://sillok.history.go.kr/main/main.do;jsessionid=B84486E140C2E16CC086051ECC9F
 
 ### 5. 왕 목록을 클릭
 
-![검색](/img/왕 목록.PNG)
+![검색](/img/왕목록.PNG)
 
 * 태조, 정조, 현종 실록의 글자들이 깨끗하기 때문에 주로 이쪽 왕들 중 하나를 선택한 후 검색한 글자가 있는 페이지를 클릭
 
@@ -57,6 +57,8 @@ http://sillok.history.go.kr/main/main.do;jsessionid=B84486E140C2E16CC086051ECC9F
 * 그 후 이미지 아랫 부분의 원문 선택 체크박스를 해제 함
 
 * 그후 찾은 글자를 글자가 잘리지 않게 캡처 도구를 사용하여 캡처 후 저장
+
+![검색](/img/叚.PNG)
 
 * 이때 저장은 (원하는 글자).png로 저장 (ex. 蒿를 찾았다면 蒿.png로 저장)
 
